@@ -12,3 +12,4 @@ d = bld(ref, test)
 
 Here, ref is the reference point cloud, and test is the test point cloud. The output d will contain one value for each point in ref, which is the local distance (BLD) at this point.
 
+[![View Bidirectional Local Distance (BLD) on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/93015-bidirectional-local-distance-bld)
